@@ -1,0 +1,16 @@
+{
+  "users" : [
+  { "id": 1, "name": "Camilo Urrego", "username" : "C4m1lo", "email": "camilosssssssjj@gmail.com", "image": "https://www.inverpalmas.com/aym_image/aym_logo/aym_logo_blanco.png"},
+    { "id": 2, "name": "amilo Urrego", "username" : "4m1lo", "email": "camilosssssssjj@gmail.com", "image": "https://www.inverpalmas.com/aym_image/aym_logo/aym_logo_blanco.png"},
+    { "id": 3, "name": "milo Urrego", "username" : "m1lo", "email": "camilosssssssjj@gmail.com", "image": "https://www.inverpalmas.com/aym_image/aym_logo/aym_logo_blanco.png"}
+  ],
+  "posts": [
+    { "id": 1, "title": "porque la yuca esta  tan cara?", "body": "la yuca", "userId": 1},
+    { "id": 2, "title": "la yuca?" , "body": "porque aja", "userId": 2},
+    { "id": 3, "title": "amarillo amarillo amarillo lo platano",  "body": "tutururur", "userId": 3 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
