@@ -7,7 +7,7 @@
   "posts": [
     { "id": 1, "title": "porque la yuca esta  tan cara?", "body": "la yuca", "userId": 1},
     { "id": 2, "title": "la yuca?" , "body": "porque aja", "userId": 2},
-    { "id": 3, "title": "amarillo amarillo amarillo lo platano",  "body": "tutururur", "userId": 3 }
+    { "id": 3, "title": "amarillo amarillo amarillo lo platano",  "body": "tutururur", "userId": 1 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
